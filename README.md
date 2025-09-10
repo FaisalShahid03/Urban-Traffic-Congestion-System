@@ -1,7 +1,7 @@
 # 🚦 AI-Powered Smart Traffic Monitoring and Congestion Prediction System  
 
 ## 📌 Introduction  
-Urban traffic congestion is a growing challenge, causing increased travel time, higher fuel consumption, and environmental pollution. Traditional traffic monitoring systems rely on static cameras and manual analysis, which are inefficient for large-scale real-time data handling.  
+Urban traffic congestion is a growing challenge, causing increased travel time, higher fuel consumption, and environmental pollution. Traditional traffic monitoring systems rely on static cameras and manual analysis, which are inefficient for handling large-scale, real-time data.  
 
 This project introduces an **AI-Powered Smart Traffic Monitoring and Congestion Prediction System** that integrates **real-time traffic feeds**, **weather conditions**, and **historical traffic data** to:  
 - Detect and visualize real-time traffic conditions and incidents.  
@@ -117,34 +117,3 @@ npm start
 * **Peak congestion**: 8–9 AM and 5–8 PM (evening peak higher)
 * Weather significantly impacts congestion (rain/snow → higher delays)
 * LGBM classifier achieved **high accuracy** in congestion prediction
-
----
-
-## 🧩 Future Improvements
-
-* Incorporating **deep learning models** for better temporal predictions
-* Adding **user personalization** (frequent routes, commute times)
-* Integration with **IoT-based sensors** for more granular traffic monitoring
-
----
-
-## 👨‍💻 Contributors
-
-* **Your Name** – Project Lead / Developer
-* **Team Members (if any)**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🎥 Demo
-
-*Coming soon - Screen recording of the application in action*
-
----
-
-**Note**: Remember to replace `your-username` in the clone URL with your actual GitHub username, and add your team members' names in the Contributors section if applicable.
