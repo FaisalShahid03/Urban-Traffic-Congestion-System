@@ -107,7 +107,7 @@ npm start
 
 ### Real-Time Traffic Viewer Interface
 
-![Interface](docs/369e5c8d-6a1d-4851-b3ce-42d814d0d55d.png)
+![Interface](tomtom.png)
 
 ---
 
